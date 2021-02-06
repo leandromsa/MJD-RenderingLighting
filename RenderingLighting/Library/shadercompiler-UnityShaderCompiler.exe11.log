@@ -1,55 +1,8 @@
 Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.16f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.16f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  api=4 insize=9917 outsize=8504 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=4823 outsize=662 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=5899 outsize=6007 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=11086 outsize=880 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=3194 outsize=2044 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=40407 outsize=40234 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=8511 outsize=6716 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=22295 outsize=14637 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=11494 outsize=3279 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=9829 outsize=9494 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=22339 outsize=982 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=6202 outsize=2809 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=6745 outsize=1297 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=6745 outsize=1243 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=26542 outsize=15193 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16295 outsize=101466 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16295 outsize=50619 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=16295 outsize=49950 ok=1
-Cmd: compileComputeKernel
-  error: 1 plat 4 at ReflectionDenoiser.compute(170): signed/unsigned mismatch, unsigned assumed
-  api=4 insize=8751 outsize=5393 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=28593 outsize=426 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=13959 outsize=2288 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=10587 outsize=1413 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6948 outsize=810 kw=UNITY_PASS_SHADOWCASTER _NORMALMAP_TANGENT_SPACE _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+  api=4 type=1 insize=7919 outsize=7918 kw=DECALS_3RT _ALPHATEST_ON _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=7919 outsize=6218 kw=DECALS_3RT _NORMALMAP_TANGENT_SPACE _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+  api=4 type=1 insize=7443 outsize=142 kw=_NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _ENABLE_GEOMETRIC_SPECULAR_AA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6302 outsize=4918 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-
-Quitting shader compiler process
+  api=4 type=1 insize=7919 outsize=9250 kw=DECALS_3RT _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _DETAIL_MAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
